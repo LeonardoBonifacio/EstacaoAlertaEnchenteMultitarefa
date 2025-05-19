@@ -1,4 +1,4 @@
-# Projeto: Monitor de Nível de Água e Volume de Chuva
+# Projeto: Estação Alerta de enchente multitarefa
 
 Este projeto implementa um sistema embarcado utilizando o Raspberry Pi Pico (RP2040) com FreeRTOS na placa BitDogLab. O objetivo é ler valores de nível de água e volume de chuva a partir de um joystick analógico, exibir porcentagens em um display OLED SSD1306, e sinalizar alertas através de buzzer e matriz de LEDs WS2812.
 
