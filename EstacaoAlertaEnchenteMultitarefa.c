@@ -29,9 +29,7 @@ ssd1306_t ssd; // Inicializa a estrutura do display
 #define GPIO_LED_AZUL 12
 #define GPIO_PIN_BUZZER 21
 #define GPIO_MATRIZ_LEDS 7
-#define QUANTIDADE_LEDS 25 // Quantidade de leds presentes na matriz, necessário definir para poder percorrer toda a matriz com for()
-#define JOYSTICK_X_PIN 26  
-#define JOYSTICK_Y_PIN 27  
+#define QUANTIDADE_LEDS 25 // Quantidade de leds presentes na matriz, necessário definir para poder percorrer toda a matriz com for() 
 #define BOTAO_A_PARA_BOOTSEL 5 
 
 typedef struct
